@@ -1,5 +1,7 @@
-### Hi there 👋
-##### I'm Burcu! Welcome to my GitHub page! 
+<div align="center">
+<h4>Hi there 👋 I'm Burcu! </h4>
+  <h5>Welcome to my GitHub page! </h5>
+</div>
 
 <!--
 **burcia1711/burcia1711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/burcia1711/burcia1711/blob/output/github-contribution-grid-snake.gif">
+   <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
+</div>
 
-![snake gif](https://github.com/burcia1711/burcia1711/blob/output/github-contribution-grid-snake.gif)
