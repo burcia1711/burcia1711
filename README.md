@@ -23,3 +23,12 @@ Here are some ideas to get you started:
    <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
 </div>
 
+<div align="center">
+
+  <h6>I am also a bookworm 🤓📚 if you're interested in what i am currently reading and have read so far in 2023, please check my </h6>
+  
+ [Virtual Bookshelf!](https://burcia1711.github.io/virtual-bookshelf/)
+ 
+ </div>
+ 
+ 
