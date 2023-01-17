@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  <h6>I am also a bookworm 🤓📚 if you're interested in what i am currently reading and have read so far in 2023, please check my </h6>
+  <h6>I am also a (little) bookworm 🤓📚 if you're interested in what i am currently reading and have read in 2023 so far, please check my </h6>
   
  [Virtual Bookshelf!](https://burcia1711.github.io/virtual-bookshelf/)
  
