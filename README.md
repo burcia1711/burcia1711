@@ -1,6 +1,7 @@
 <div align="center">
 <h4>Hi there 👋 I'm Burcu! </h4>
   <h5>Welcome to my GitHub page! </h5>
+  <h6>I am currently working privately on my thesis & coding for it. Meanwhile, I'm into game development. I'm spending time with Unity. </h6>
 </div>
 
 <!--
@@ -17,11 +18,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
- <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
+
 -->
+-----------------
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/burcia1711/burcia1711/blob/output/github-contribution-grid-snake.gif" width="800">
-  
+   <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
 </div>
 
 <div align="center">
