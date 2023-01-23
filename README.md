@@ -27,11 +27,14 @@ Here are some ideas to get you started:
    <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
 </div>
 
+--------------------
+
 <div align="center">
 
-  <h6>I am also a (little) bookworm 🤓📚 if you're interested in what i am currently reading and have read in 2023 so far, please check my </h6>
+  <h6> <p>I am also a (little) bookworm 🤭🤓📚 
+    <p>if you're interested in what i am currently reading and have read in 2023 so far, please check my </h6>
   
- [Virtual Bookshelf!](https://burcia1711.github.io/virtual-bookshelf/)
+ 👉🏻[Virtual Bookshelf!](https://burcia1711.github.io/virtual-bookshelf/)👈🏻
  
  </div>
  
