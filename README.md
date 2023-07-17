@@ -20,14 +20,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
--->
+
 -----------------
 <div align="center">
   <img alt="snake eating my contribution" src="https://github.com/burcia1711/burcia1711/blob/output/github-contribution-grid-snake.gif" width="800">
    <h6>🐍 Oh no! The snake is eating my contributions! 🐍</h6>
 </div>
 
---------------------
+-------------------- 
+-->
 
 <div align="center">
 
