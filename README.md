@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
+-----------------
   <h6> <p>I am also a (little) bookworm 🤭🤓📚 
     <p>if you're interested in what i am currently reading and have read in 2023 so far, please check my </h6>
   
