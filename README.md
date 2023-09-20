@@ -1,8 +1,8 @@
 <div align="center">
 <h4>Hi there 👋 I'm Burcu! </h4>
   <h5>Welcome to my GitHub page! </h5>
-  <h6> <p> I am currently working privately on my thesis & coding for it.
-    <p> Meanwhile, I'm into game development. I'm spending time with Unity. </h6>
+  <h6> <p> I just graduated from my master's degree and will start my PhD studies, soon.
+    <p> Meanwhile, I'm into generative ai, game development, language evolution... </h6>
 </div>
 
 <!--
