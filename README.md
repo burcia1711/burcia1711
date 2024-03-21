@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -----------------
 I am also a (little) bookworm 🤭🤓📚 
 
-if you're interested in what i am currently reading and have read in 2023 so far, 
+if you're interested in what i am currently reading and have read in 2024 so far, 
 
 please check my little bookshelf:
  👉🏻 [Virtual Bookshelf!](https://burcia1711.github.io/virtual-bookshelf/) 👈🏻
